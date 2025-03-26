@@ -45,7 +45,7 @@ Install C++ and MySQL files located in the OsTicket folder on desktop.  Next, op
 <br />
 
 <p>
-<img src="https://i.imgur.com/XU8vace.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZP3qOPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Enable extentions and assign permissions in PHP manager.  Next, install Heidi SQL and create a database for osTicket.  Finally, finsih settting up MySQL database and install.
