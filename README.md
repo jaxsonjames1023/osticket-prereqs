@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/Y4PLiFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open download folder inside of Virtual Machine, and the drag file onto the desktop.  Next, enable IIS in Windows with CGI.  Finally, create a directory called C: \PHP.
+Open download folder inside of Virtual Machine, and the drag file onto the desktop.  Next, enable IIS in Windows with CGI.  Finally, create a new folder on the C:drive called PHP.
 </p>
 <br />
 
