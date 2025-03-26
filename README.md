@@ -40,7 +40,7 @@ Open download folder inside of Virtual Machine, and the drag file onto the deskt
 <img src="https://i.imgur.com/puXvyfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install VC and MySQL files located in the OsTicket folder on desktop.  Next, open IIS as administrator and registered PHP.  Finally, reload IIS.
+Install VC and MySQL files located in the OsTicket folder on desktop.  Next, open IIS as administrator and register PHP.  Finally, reload IIS.
 </p>
 <br />
 
