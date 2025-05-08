@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/Y4PLiFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open download folder inside of Virtual Machine, and the drag file onto the desktop.  Next, enable IIS in Windows with CGI.  Finally, create a new folder on the C: drive called PHP.
+Open download folder inside of Virtual Machine, and drag the file onto the desktop.  Next, enable IIS in Windows with CGI.  Finally, create a new folder on the C: drive called PHP.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Open download folder inside of Virtual Machine, and the drag file onto the deskt
 <img src="https://i.imgur.com/puXvyfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install C++ and MySQL files located in the OsTicket folder on desktop.  Next, open IIS as administrator and register PHP.  Finally, reload IIS.
+Install C++ and MySQL files located in the OsTicket folder on the desktop.  Next, open IIS as administrator and register PHP.  Finally, reload IIS.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Install C++ and MySQL files located in the OsTicket folder on desktop.  Next, op
 <img src="https://i.imgur.com/ZP3qOPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Enable extentions and assign permissions in PHP manager.  Next, install Heidi SQL and create a database for osTicket.  Finally, finsih settting up MySQL database and install.
+Enable extentions, and assign permissions in PHP manager.  Next, install Heidi SQL and create a database for osTicket.  Finally, finish settting up MySQL database and install.
 </p>
 <br />
